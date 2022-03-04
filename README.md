@@ -10,3 +10,20 @@ The current admission dataset was created for the prediction of admissions into 
 ### **Objective:**
 
 We need to build a classification model using neural networks to predict a student's chances of admission into UCLA.
+
+
+### **Data Dictionary:**
+
+The dataset contains several parameters which are considered important during the application for Masters Programs.
+The parameters included are : 
+
+**GRE Scores:** (out of 340) \
+**TOEFL Scores:** (out of 120) \
+**University Rating:**  It indicates the Bachelor University ranking (out of 5) \
+**Statement of Purpose Strength:** (out of 5) \
+**Letter of Recommendation Strength:** (out of 5) \
+**Undergraduate GPA:** (out of 10) \
+**Research Experience:** (either 0 or 1) \
+**Chance of Admit:** (ranging from 0 to 1) 
+
+Dataset: Admission_Predict.csv
